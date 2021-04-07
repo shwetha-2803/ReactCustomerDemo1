@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "id": 800,
+      "name": "Customer Hyd - edited",
+      "location": "Location 1"
+    },
+    {
+      "id": 801,
+      "name": "Customer two",
+      "location": "Location 2"
+    },
+    {
+      "id": 803,
+      "name": "ABCD",
+      "location": "New City"
+    }
+  ]
+}
